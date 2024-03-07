@@ -13,7 +13,7 @@
         <item>Restaurant</item>
     </string-array>
 
-    <string name="map_api_key">AIzaSyAnh9a3t12IXqy-7yg2pK1-MrcOEeaFW4k</string>
+    <string name="map_api_key">""</string>
     <string name="because"><i>Because</i></string>
     <string name="karlskrona"><i>Karlskrona</i></string>
     <string name="is_always_a"><i>is always a</i></string>
